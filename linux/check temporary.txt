@@ -1,0 +1,12 @@
+<form method="post" action="adminloginaction.jsp">
+	<div class="loginbox">
+		<h1>Admin login</h1>
+		
+		Username:<input type="text" name="username" placeholder="Enter username" required="required">
+		
+		Password:<input type="password" name="password" placeholder="Enter password" required="required">
+		<input type="submit" name="submit" value="login">
+		
+	</div>
+	</form>
+	<center><h1><a href="index.html">Back</a></h1></center>
